@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StyleApp</string>
+    <string name="language">Not found</string>
+    <string name="language_tv">Language:</string>
+    <string name="densities">Densities:</string>
+    <string name="size">Size:</string>
+    <string name="size_320">a typical phone screen (240x320 ldpi, 320x480 mdpi, 480x800 hdpi, etc).</string>
+    <string name="size_480"> a tweener tablet like the Streak (480x800 mdpi).</string>
+    <string name="size_600">a 7” tablet (600x1024 mdpi).</string>
+    <string name="size_720">a 10” tablet (720x1280 mdpi, 800x1280 mdpi, etc).</string>
+    <string name="orientation">Orientation:</string>
+    <string name="land">landscape</string>
+    <string name="port">portrait</string>
+</resources>
